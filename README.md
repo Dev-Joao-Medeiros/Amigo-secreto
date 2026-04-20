@@ -11,7 +11,7 @@ Este repositório contém um sorteio de amigo secreto, onde o usuario Insere os 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Medeiros20/Amigo-secreto.git
+   git clone https://github.com/Dev-Joao-Medeiros/Amigo-secreto.git
    ```
 
 2. Acesse a pasta do projeto:
